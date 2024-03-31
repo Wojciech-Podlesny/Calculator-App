@@ -1,0 +1,65 @@
+:root {
+    --background: hsl(222, 26%, 31%);
+    --Calculator-background: hsl(223, 31%, 20%);
+    --screen-background: hsl(224, 36%, 15%);
+    
+    --Del-key: hsl(225, 21%, 49%);
+    --Del-key-shadow: hsl(224, 28%, 35%);
+    --orange-key: hsl(6, 63%, 50%);
+    --orange-key-shadow: hsl(6, 70%, 34%);
+    --light-gray-key: hsl(30, 25%, 89%);
+    --light-grey-key-shadow: hsl(28, 16%, 65%);
+    
+    --Keypad-color: hsl(221, 14%, 31%);
+    --Reset-del-and-equal-to-color: hsl(0, 0%, 100%);
+    --h2-color: hsl(0, 0%, 100%);
+    --cyan-keypad-color: hsl(0, 0%, 100%);
+    
+    --hover-state: hsl(0, 0%, 100%);
+    --Reset-and-del: hsl(225, 21%, 55%);
+    --Equal-to-hover: hsl(5, 93%, 67%);
+    }
+    
+    .theme-2 {
+    --background: hsl(0, 0%, 90%);
+    --Calculator-background: hsl(0, 5%, 81%);
+    --screen-background: hsl(0, 0%, 93%);
+    
+    --Del-key: hsl(185, 42%, 37%);
+    --Del-key-shadow: hsl(185, 58%, 25%);
+    --orange-key: hsl(25, 98%, 40%);
+    --orange-key-shadow: hsl(25, 99%, 27%);
+    --light-gray-key: hsl(45, 7%, 89%);
+    --light-grey-key-shadow: hsl(35, 11%, 61%);
+    
+    --Keypad-color: hsl(60, 10%, 19%);
+    --Reset-del-and-equal-to-color: hsl(0, 0%, 100%);
+    --h2-color: hsl(60, 10%, 19%);
+    --cyan-keypad-color: hsl(0, 0%, 100%);
+    
+    --hover-state: hsl(0, 0%, 100%); 
+    --Reset-and-del: hsl(185, 41%, 56%);
+    --Equal-to-hover: hsl(25, 98%, 50%);
+    }
+    
+    .theme-3{
+    --background: hsl(268, 75%, 9%);
+    --Calculator-background: hsl(268, 71%, 12%);
+    --screen-background:hsl(268, 71%, 12%);
+    
+    --Del-key: hsl(281, 89%, 26%);
+    --Del-key-shadow: hsl(285, 91%, 52%);
+    --orange-key: hsl(176, 100%, 44%);
+    --orange-key-shadow: hsl(177, 92%, 70%);
+    --light-gray-key: hsl(268, 47%, 21%);
+    --light-grey-key-shadow: hsl(290, 70%, 36%);
+    
+    --Keypad-color: hsl(52, 100%, 62%);
+    --cyan-keypad-color: hsl(198, 20%, 13%);
+    --Reset-del-and-equal-to-color-text: hsl(0, 0%, 100%);
+    --h2-color: hsl(52, 100%, 62%);
+    
+    --hover-state: hsl(281, 89%, 26%);
+    --Reset-and-del: hsl(290, 70%, 36%);
+    --Equal-to-hover: hsl(177, 92%, 70%);
+    }    
